@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.help{
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.let{
+    text-align: center;
+    color: white;
+}
+.pera{
+    padding-top: 245px;
+}
+.btnn{
+    margin-left: 700px;
+    padding: 10px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105));
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s all;
+}
+.btnn:hover{
+    background-color: red;
+}
+.number{
+    display: flex;
+    margin-left: 220px;
+}
+.tk{
+    padding: 27px 30px;
+    margin-right: 15px;
+    background-color: aliceblue;
+    border-radius: 10px;
+    color: gray;
+    transition: 0.3s;
+}
+.tk:hover{
+    color: black;
+    background-color: antiquewhite;
+    border: 3px solid rgba(202, 3, 99, 0.688);
+    opacity: 0.6;
+}
+.secnd-content{
+    padding: 48px 20px;
+}
+.nmbr-section{
+    margin-top: 42px;
+}
+.other{
+    color: gray;
+    text-align: center;
+    margin-top: 40px;
+    line-height: 0;
+}
+.btn-now{
+    margin-left: 535px;
+    padding: 10px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105));
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s all;
+}
+.third-section{
+    margin-top: 73px;
+}
+a{
+    color: gray;
+}
+.icon-one,.icon-two,.icon-three{
+    margin-top: 20px;
+}
+.three-part{
+    display: flex;
+}
+.icon-one,.icon-two,.icon-three{
+    font-size: 45px;
+}
+.food{
+    height: 265px;
+    width: 380px;
+    background-color: aliceblue;
+    padding: 10px 40px;
+    margin-left: 55px;
+}
+.shelter{
+    height: 265px;
+    width: 380px;
+    background-color: antiquewhite;
+    padding: 10px 40px;
+    margin-left: 35px;
+}
+.education{
+    height: 265px;
+    width: 380px;
+    background-color: lavender;
+    padding: 10px 40px;
+    margin-left: 35px;
+}
+/* .pera-one,.pera-two,.pera-three{
+    margin-top: 32px;
+} */
+.our-donate{
+    text-align: center;
+    margin-bottom: 40px;
+}
+.family,.donate-pln{
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.picture img{
+    width: 391px;
+    height: 315px;
+    margin-left: 35px;
+    margin-top: 16px;
+    border-radius: 10px;
+}
+.live{
+    height: 300px;
+    width: 385px;
+    margin-left: 175px;
+    padding: 10px 15px;
+}
+.two-part{
+    margin-left: 45px;
+    margin-top: 60px;
+    padding-bottom: 50px;
+}
+.contribute-btn button{
+    padding: 10px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105)) !important;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s all;
+    margin-top: 15px;
+}
+.picc img{
+    width: 391px;
+    height: 315px;
+    margin-left: 150px;
+    margin-top: 16px;
+    border-radius: 10px;
+}
+.need{
+    height: 300px;
+    width: 385px;
+    margin-left: 65px;
+    padding: 10px 15px;
+}
+.contribtn button{
+    padding: 10px 40px;
+    font-weight: 600;
+    font-size: 20px;
+    background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105)) !important;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    transition: 0.5s all;
+    margin-top: 15px;
+}
+.part-2nd{
+    margin-left: 125px;
+    padding-bottom: 50px;
+}
+.part-thrd{
+    text-align: center;
+}
+.enim{
+    padding: 10px 360px;
+}
+.contri{
+    text-align: center;
+    padding: 10px 10px;
+    margin-top: 30px;
+    background-color: antiquewhite;
+    height: 175px;
+    width: 835px;
+    margin-left: 235px;
+    border: none;
+}
+.fildd{
+    padding: 10px 36px;
+    margin-top: 55px;
+    background-color: #d0b9b9;
+    color: white !important;
+    border: none;
+    border-radius: 5px;
+}
+.get{
+    padding-bottom: 60px;
+}
+.subscribe{
+    padding: 13px 36px;
+    background-image: linear-gradient(rgb(211, 14, 139), rgb(186, 105, 105)) !important;
+    color: aliceblue;
+    text-decoration: none;
+    margin-left: -5px;
+    border-radius: 5px;
+}
+.update{
+    font-weight: 600;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.humble{
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    height: 175px;
+}
+h1.stylee{
+    padding-top: 25px;
+    font-family: auto;
+} 
